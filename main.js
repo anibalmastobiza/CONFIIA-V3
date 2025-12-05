@@ -1,5 +1,5 @@
 // Configuration
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz3k1iGfXy2bE_8jkmJzMxZCMH-Fn0XDfZet44LrLqyFO-CUaUF_fTWQG3uyu_sRAM4Fg/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwyHNtPh5A9NEs7UQ2p3qkscOm045-mOtqunDScPqxxbpCZbvZHG9enjJ4D6lMv8xuydg/exec';
 
 // Application State
 let currentSection = 'intro';
